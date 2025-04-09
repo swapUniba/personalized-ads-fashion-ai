@@ -1,0 +1,31 @@
+﻿idUtente,nome,cognome,eta,nazione,genere,corrente_artistica_preferita,professione,colori_preferiti,generi_musicali_preferiti,cosa_cerchi_nei_capi,marchi_preferiti,competenza_moda,interesse_moda
+1,Alessandro,Piergiovanni,23,Italia,Uomo,Avant-Garde,Studente,"Nero, Viola",Techno,"Audacia, Originalità, Sicurezza",Yves Saint Laurent,5,4
+2,Filomena,de Cesare,49,Italia,Donna,Romanticismo,Impiegata,"Bordeaux, Nero",Pop,Comodità,Louis Vuitton,1,3
+3,Isabel,Villalobos,22,Venezuela,Donna,Avant-Garde,Studentessa,Nero,"Techno, Pop","Eleganza, Seduttività","Yves Saint Laurent, Rick Owens",4,4
+4,Umberto,Troia,31,Italia,Uomo,Post-Modernismo,Impiegato,"Bianco, Nero",Pop,"Comodità, Versatilità","Gucci, Louis Vuitton",5,4
+5,Viviana,Lazzizzera,31,Italia,Donna,Romanticismo,Impiegata,"Nero, Rosso",Pop,Comodità,Gucci,1,1
+6,Leonardo,Ciociano,25,Italia,Uomo,Streetwear,Studente,"Nero, Rosso","Rap, Rock","Originalità, Versatilità",Dior,4,3
+7,Antonella,Petruzzella,25,Italia,Donna,Avant-Garde,Studente,Nero,Techno,"Eleganza, Seduttività, Sicurezza","Rick Owens, Yves Saint Laurent",4,4
+8,Giammarco,Giancaspro,25,Italia,Uomo,Tribalismo,Studente,Nero,"Rap, Techno","Eleganza, Sicurezza","Junya Watanabe, Rick Owens",5,5
+9,Giuseppe,Giancaspro,33,Italia,Uomo,Neo-Classicismo,Cassiere,"Bordeaux, Nero",Jazz,"Originalità, Sicurezza","Bottega Veneta, Ralph Lauren",4,5
+10,Marco,Incantalupo,27,Italia,Uomo,Gothic,Designer di Interni,"Blu, Nero","Rap, Rock","Libertà, Originalità",Rick Owens,5,4
+11,Federico,de Candia,27,Italia,Uomo,Pop-Art,Pittore,Celeste,"Classica, Jazz","Comodità, Originalità","Ralph Lauren, Bottega Veneta",4,4
+12,Martina,de Iudicibus,43,Italia,Donna,Eco-Fashion,Agente Immobiliare,"Bianco, Nero",Rock,"Eleganza, Sicurezza",Giorgio Armani,1,4
+13,Emanuela,Caputi,40,Italia,Donna,Romanticismo,Casalinga,Nero,Pop,"Libertà, Originalità","Gucci, Louis Vuitton",2,3
+14,Grazia,Ancone,78,Italia,Donna,Romanticismo,Pensionata,"Celeste, Rosa",Pop,"Comodità, Versatilità",Miu Miu,1,2
+15,Francesca,Lusito,59,Italia,Donna,Romanticismo,Impiegata,Magenta,Pop,"Comodità, Libertà","Louis Vuitton, Gucci",2,2
+16,Giovanna,Mancini,33,Italia,Donna,Barocco,Barista,Nero,Pop,"Comodità, Versatilità",Louis Vuitton,1,3
+17,Rosanna,Messina,28,Italia,Donna,Avant-Garde,Studente,"Bianco, Nero","Pop, Rap","Comodità, Eleganza, Seduttività",Rick Owens,1,2
+18,Francesco,Carabellese,23,Italia,Uomo,Barocco,Studente,"Blu, Nero","Pop, RnB","Comodità, Sicurezza",Giorgio Armani,4,3
+19,Luca,Ottaviano,24,Italia,Uomo,Streetwear,Giornalista Sportivo,"Nero, Rosso","Pop, RnB","Comodità, Libertà, Sicurezza",Giorgio Armani,4,3
+20,Luca,Appolloni,22,Italia,Uomo,Avant-Garde,Studente,"Nero, Verde","Pop, RnB","Libertà, Originalità, Sicurezza",Rick Owens,4,3
+21,Serena,Sciancalepore,40,Italia,Donna,Minimalismo,Casalinga,"Nero, Blu","RnB, Pop","Originalità, Eleganza, Sicurezza","Gucci, Louis Vuitton",5,3
+22,Saverio,de Candia,30,Italia,Uomo,Gothic,Impiegato,Nero,"Rap, Pop","Comodità, Versatilità",Rick Owens,4,4
+23,Dario,Sciancalepore,28,Italia,Uomo,Post-Modernismo,PR Manager,"Bordeaux, Nero","Rock, Pop","Originalità, Comodità","Yves Saint Laurent, Junya Watanabe",5,3
+24,Matteo,Petruzzella,22,Italia,Uomo,Streetwear,Studente,"Nero, Marrone","Rap, Rock","Comodità, Versatilità, Originalità","Dior, Gucci",4,3
+25,Giuseppe,Valente,23,Italia,Uomo,Romanticismo,Studente,"Nero, Rosso","Rock, Techno","Originalità, Eleganza, Seduttività","Yves Saint Laurent, Louis Vuitton",4,4
+26,Francesca,Mancini,38,Italia,Donna,Romanticismo,Disoccupata,Nero,"Country, Techno","Sicurezza, Eleganza, Audacia","Gucci, Louis Vuitton",3,5
+27,Federico,Anselmi,26,Italia,Uomo,Tribalismo,Studente,"Nero, Marrone","Techno, Metal","Misteriosità, Originalità","Rick Owens, Yves Saint Laurent",3,5
+28,Martina,Salvemini,33,Italia,Donna,Neo-Classicismo,Educatrice,"Nero, Rosa","Rock, Pop","Originalità, Eleganza, Seduttività","Miu Miu, Yves Saint Laurent",3,5
+29,Marta,Gadaleta,35,Italia,Donna,Romanticismo,Farmacista,"Magenta, Arancione",Rock,"Comodità, Seduttività","Miu Miu, Yves Saint Laurent",5,3
+30,Annapaola,Petruzzella,38,Italia,Donna,Romanticismo,Cassiera,"Verde, Giallo",Pop,"Sicurezza, Eleganza","Yves Saint Laurent, Giorgio Armani",2,2

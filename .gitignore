@@ -1,0 +1,16 @@
+# Ambienti virtuali
+venv/
+.env/
+.env.bak/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Config locali
+.gradio/
+.ipynb_checkpoints/
+
+# File di sistema
+.DS_Store
+Thumbs.db
