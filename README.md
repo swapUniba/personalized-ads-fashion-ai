@@ -155,7 +155,14 @@ Ricorda di aggiornare l’**ID del set domand**e nel file `main.py` o `sql super
 
 Se non hai **nessuna modifica da fare** puoi passare al passaggio successivo.
 
-### 3. Esecuzione delle Web App
+### 3. Impostazione delle API KEYS
+Aggiungere le tue **API Key** nel file `models.py`:  
+> - Chiave per **Gemini** tramite [OpenRouter](https://openrouter.ai/)  
+> - Chiave per **Stable Diffusion** tramite [Stability AI](https://platform.stability.ai/)  
+
+Senza queste chiavi, la generazione delle immagini non funzionerà.
+
+### 4. Esecuzione delle Web App
 - Per avviare la **Web App Utente**:
 ```
 python "main.py"
